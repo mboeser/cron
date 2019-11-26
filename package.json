@@ -8,5 +8,8 @@
     "start": "node app.js"
   },
   "author": "Mike Boeser <mboeser@yahoo.com> (https://github.com/mboeser)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
